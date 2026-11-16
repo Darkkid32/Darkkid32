@@ -48,14 +48,29 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-111111?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-333333?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-444444?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-555555?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-666666?style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 ### 💻 Languages & Dev
-<img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css,react,nodejs,git,github,linux,vscode&perline=12" alt="Skill Icons" />
+<img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css,react,nodejs,git,github,linux,vscode,bash,powershell,windows,ubuntu,mysql,mongodb,postman,npm,docker,kali&perline=12" alt="Skill Icons" />
 
 ### 🤖 AI & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/LLMs_&_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
