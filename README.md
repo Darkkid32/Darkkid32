@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pooventhan%20Ramesh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%F0%9F%9B%A1%EF%B8%8F%20Cybersecurity%20Engineer%20%E2%80%A2%20%F0%9F%A4%96%20AI%20Builder%20%E2%80%A2%20%F0%9F%91%95%20Founder%20%40%20POPR&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://github.com/Darkkid32">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=%F0%9F%94%90+Cybersecurity+Engineer+%40+Scyverge;🕵️+Pentester+%7C+OWASP+%7C+Burp+Suite+%7C+Nmap;🤖+Building+AI+Agents+%26+Automation;👕+Founder+%E2%80%94+POPR+%7C+Co-Founder+%E2%80%94+Rishi+Garments;🚀+Break+%E2%86%92+Exploit+%E2%86%92+Patch+%E2%86%92+Prove" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=%F0%9F%94%90+Cybersecurity+Engineer+%40+Scyverge;🕵️+Pentester+%7C+OWASP+%7C+Burp+Suite+%7C+Nmap;🤖+Building+AI+Agents+%26+Automation;👕+Founder+%E2%80%94+POPR+%7C+Co-Founder+%E2%80%94+Rishi+Garments;🚀+Break+%E2%86%92+Exploit+%E2%86%92+Patch+%E2%86%92+Prove" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -80,8 +80,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darkkid32&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=00C7B7&icon_color=00C7B7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkkid32&layout=compact&theme=tokyonight&title_color=00C7B7"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Darkkid32&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=00C7B7&icon_color=00C7B7"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Darkkid32&layout=compact&theme=tokyonight&title_color=00C7B7"/>
 
 <br/>
 
