@@ -23,10 +23,8 @@
 👤 Name        : Pooventhan Ramesh
 💼 Role        : Cybersecurity Engineer @ Scyverge, Bengaluru 🇮🇳
 🏭 Founder     : POPR 👕 | Co-Founder — Rishi Garments, Tiruppur
-🎓 Education   : B.Sc Computer Technology, First Class Honours
 🏅 Certs       : CEH • Offensive C# • Vulnerability Identification
 🛡️ Recognition : Govt. of India — Responsible Disclosure Acknowledgements
-📍 Location    : Bengaluru / Tiruppur, Tamil Nadu, India
 ⚡ Philosophy  : "Bypass → Exploit → Patch → Re-run → Regression Proof" 🔁
 ```
 
