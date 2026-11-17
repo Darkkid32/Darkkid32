@@ -140,6 +140,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Darkkid32-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darkkid32)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pooventhan_Ramesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooventhan-ramesh)
+
 [![Email](https://img.shields.io/badge/Email-pooventhan.r@popr.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pooventhan.r@popr.in)
 [![Website](https://img.shields.io/badge/Website-popr.in-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://popr.in)
 
